@@ -2,6 +2,9 @@
 
 Formulário em planilha, dividido em etapas, para **coletar e organizar as informações que um contribuinte precisa reunir para a declaração do Imposto de Renda (IRPF)**: dados do titular, saldos e informes dos bancos e rendimentos recebidos como freelancer/holerite.
 
+**INFORMAÇÕES INSERIDAS SOMENTE PARA DEMONSTRAÇÃO**
+**Read.Me Criado com apoio da IA Claude seguindo fielmente o Projeto**
+
 > **Plataforma:** Microsoft Excel (Excel Online / Excel para a web)
 > **Arquivo:** `atv_Forms_DIO_RL_1.xlsx`
 > **Tipo de projeto:** formulário de entrada de dados com validação e navegação entre etapas, feito só com recursos nativos do Excel (sem macros)
